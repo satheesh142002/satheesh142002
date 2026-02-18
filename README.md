@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and curious developer, constantly
 - Automation & Backend Systems  
 
 ## 🌱 I'm Currently Learning 
-- FastAPI and scalable backend systems  
-- DevOps fundamentals (Docker, CI/CD)  
+- FastAPI and scalable backend systems   
 - System design & architecture best practices  
 
 ## 💞️ I'm Looking to Collaborate On
